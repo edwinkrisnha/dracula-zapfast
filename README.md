@@ -1,20 +1,25 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [ZapFast](https://zapfast.rocks)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [ZapFast](https://zapfast.rocks), the fast, open-source desktop WhatsApp client.
 
 ![Screenshot](./screenshot.png)
 
+Includes both variants:
+
+- **Dracula** (`Dracula.json`) - the classic dark theme
+- **Alucard** (`Alucard.json`) - the light variant
+
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/zapfast](https://draculatheme.com/zapfast), or in [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/edwinkrisnha/dracula-zapfast/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![Edwin Krisnha](https://github.com/edwinkrisnha.png?size=100)](https://github.com/edwinkrisnha) |
+| ------------------------------------------------------------------------------------------------- |
+| [Edwin Krisnha](https://github.com/edwinkrisnha)                                                  |
 
 ## Community
 
